@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "SeedRank CSV Blog Builder"
+    },
+    {
+      "path": "/reports",
+      "title": "Saved SeedRank Reports"
+    },
+    {
+      "path": "/reports/:slug",
+      "title": "Saved SeedRank Report"
+    }
+  ]
+}
